@@ -63,7 +63,7 @@ function loadExternalResource(url, type) {
 	
     logLevel: 'warn',
     drag: false,
-	modelId:1,
+	modelId:0,
   });
 })();
 
